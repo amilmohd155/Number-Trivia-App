@@ -1,4 +1,4 @@
-# flutter_tdd_clean_architecture_course
+# flutter_tdd_clean_architecture_
 
 A new Flutter project.
 
